@@ -1,0 +1,6 @@
+export const ADMIN_ROUTE = '/admin'
+export const LOGIN_ROUTE = '/login'
+export const REG_ROUTE = '/registration'
+export const LIBRARY_ROUTE = '/library'
+export const BASKET_ROUTE = '/basket'
+export const BOOK_ROUTE = '/book'
